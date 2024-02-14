@@ -32,7 +32,7 @@ main {
 h1 {
     font-size: 2rem;
     line-height: 1.3;
-    margin: 1rem 0;   
+    margin: 1rem 0;  
 }
 
 
@@ -42,6 +42,7 @@ h1 {
     font-size: .85rem;
     border-bottom: 2px solid #ff3530;
 }
+
 
 figcaption, div p, time, h2 {
     font-family: 'Open Sans', sans-serif;
